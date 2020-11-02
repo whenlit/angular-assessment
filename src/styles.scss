@@ -1,0 +1,19 @@
+.material-icons {
+  display: inline-flex;
+  vertical-align: middle;
+  font-size: .8em;
+}
+
+.form-checks {
+  color: green;
+  font-size: .8em;
+
+  .invalid, &.invalid {
+    color: red;
+  }
+
+  .pending {
+    color: gold;
+  }
+}
+

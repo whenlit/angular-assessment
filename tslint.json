@@ -43,6 +43,7 @@
         ]
       }
     ],
+    "no-any": true,
     "no-console": [
       true,
       "debug",
@@ -139,13 +140,13 @@
     "directive-selector": [
       true,
       "attribute",
-      "app",
+      "aa",
       "camelCase"
     ],
     "component-selector": [
       true,
       "element",
-      "app",
+      "aa",
       "kebab-case"
     ]
   }
